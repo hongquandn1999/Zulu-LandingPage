@@ -54,6 +54,7 @@
 			&__image {
 				margin-bottom: 35px;
 				max-height: 115px;
+				line-height: 1.6;
 			}
 
 			&__title {
@@ -63,7 +64,6 @@
 			}
 
 			&__desc {
-				font-weight: 300;
 				margin-bottom: 35px;
 				
                 display: -webkit-box;
@@ -75,7 +75,6 @@
 				max-width: 100%;
 				word-break: break-word;
 
-                color: $gray;
 			}
 		}
 	}
